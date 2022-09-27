@@ -2,7 +2,7 @@
 
 for each loops are a concept extension of `for` loops where we look at iterating over objects rather than just numbers.
 
-All of the sample code provided in this file is in the for.py Python file for you to run, modify, and otherwise investigate.
+All of the sample code provided in this file is in the foreach.py Python file for you to run, modify, and otherwise investigate.
 
 ---
 
