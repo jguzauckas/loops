@@ -2,6 +2,8 @@
 
 `for` loops offer us a way to repeat an action(s) several times.
 
+All of the sample code provided in this file is in the for.py Python file for you to run, modify, and otherwise investigate.
+
 ---
 
 ## Most basic `for` loops
@@ -117,3 +119,5 @@ This produces the output:
 4
 0
 ```
+
+In Python, this is not considered to be as effective as it would be in other programming languages. To to do this better, we'll look at for each loops.
