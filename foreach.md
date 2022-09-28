@@ -51,7 +51,7 @@ Inside of `enumerate`, we provide an iterable to split up, and where we'd normal
 
 ```python
 for position, name in enumerate(surnames):
-    print(position)
+    print(position, name)
 ```
 
 This produces the output:
