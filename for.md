@@ -106,7 +106,7 @@ mylist = [3, 7, 2, 4, 0]
 We could have range make a list of indices as long as our list using the `len()` function:
 
 ```python
-for x in range(mylist.len()):
+for x in range(len(mylist)):
     print(mylist[x])
 ```
 
